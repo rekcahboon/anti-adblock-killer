@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: AakList (Anti-Adblock Killer)
 ! Author: Reek | http://reeksite.com/
 ! Version: 10.0
